@@ -4,7 +4,7 @@
 #include<iostream>
 using namespace std;//名空间
 
-//管理员相关函数
+//管理员相关函数 //
 void addbook()//进入添加书籍
 {
 	manage manage1;//实例化对象
